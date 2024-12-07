@@ -18,6 +18,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.Mouse.Cnds.OnClick,
 		C3.Plugins.System.Cnds.OnLayoutStart,
+		C3.Plugins.Audio.Acts.StopAll,
 		C3.Plugins.Audio.Acts.Play,
 		C3.Plugins.System.Acts.ResetGlobals,
 		C3.Behaviors.Bullet.Acts.SetAngleOfMotion,

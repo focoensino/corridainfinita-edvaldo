@@ -19,6 +19,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Mouse.Cnds.OnClick,
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.Audio.Acts.Play,
+		C3.Plugins.System.Acts.ResetGlobals,
 		C3.Behaviors.Bullet.Acts.SetAngleOfMotion,
 		C3.Behaviors.Pin.Acts.PinByProperties,
 		C3.Plugins.System.Exps.choose,
